@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'HelloWorldDayNice',
   props: {
     msg: String
   }
@@ -56,3 +56,5 @@ a {
   color: #42b983;
 }
 </style>
+
+//555jjj
